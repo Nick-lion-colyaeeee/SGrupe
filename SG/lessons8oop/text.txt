@@ -1,0 +1,21 @@
+�������� ������� ������ � ���� �� ���������� ��������
+
+
+
+DBClass
+insert()
+select()
+delete()
+update()
+conected()
+
+���������  ���� �����.   
+
+
+closeconect()
+
+https://github.com/jlake/EasyPDO
+
+
+https://www.youtube.com/watch?v=ACUiBH5qV0U
+http://www.imavex.com/php-pdo-wrapper-class/#delete
